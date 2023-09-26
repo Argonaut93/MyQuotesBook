@@ -4,6 +4,5 @@ deuxieme phrase
 
 troisième phrase
 
-ok nouveau chgt pour voir la différence en détail.
+ok nouveau chgt pour voir la différence en détail sur github
 
-chgt pour gitHub
